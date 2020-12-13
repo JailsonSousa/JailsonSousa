@@ -1,4 +1,5 @@
-<img width="55%" align="right" alt="JailsonSousa github stats" src="https://github-readme-stats.vercel.app/api?username=JailsonSousa&show_icons=true&hide_border=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
