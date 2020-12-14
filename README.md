@@ -12,7 +12,7 @@ Mais sobre mim:
 </p>
 
 <p align="left">
-  🎯  Tecnologias que estudo no momento: <strong>React, React Native e Nodejs</strong>
+  🎯  Tecnologias que estudo no momento: <strong>Typescript, Reactjs, React Native e Nodejs</strong>
 </p>
 
 <p align="left">
