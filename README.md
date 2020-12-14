@@ -1,19 +1,18 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, meu nome é Jailson Sousa.</h1>
- <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/jailson-sousa-aa41bb198/">
-    <img src="https://img.shields.io/badge/linkedin-JailsonSousa-blue">
-  </a>
-</p>
+## Hi, I’m Jailson Sousa. 👋
 
-<h3 align="center">Sou desenvolvedor fullstack e apaixonado por tecnologia</h3>
-<h3 align="center">Graduando em Sistemas de Informação na <strong>Universidade Federal do Ceará, Campus Quixadá</strong></h3>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jailson-sousa-aa41bb198/)](https://www.linkedin.com/in/jailson-sousa-aa41bb198/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jailsonsousa11@gmail.com)](mailto:jailsonsousa11@gmail.com)
 
-<p align="left">
-  🧑🏽‍💻 Linguagem: <strong>Javascript</strong>
-</p>
+Sou desenvolvedor <strong>fullstack</strong> e apaixonado por tecnologia. Atualmente estou me graduando em sistemas de informação na <strong>Universidade Federal do Ceará, Campus Quixadá.</strong>
+
+Mais sobre mim:
 
 <p align="left">
-  🎯 Tecnologias: <strong>React, React Native, Nodejs</strong>
+  🧑🏽‍💻 Linguagem favorita: <strong>Javascript</strong>
+</p>
+
+<p align="left">
+  🎯 Tecnologias que estudo no momento: <strong>React, React Native e Nodejs</strong>
 </p>
 
 <p align="left">
