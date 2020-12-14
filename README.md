@@ -8,15 +8,15 @@ Sou desenvolvedor <strong>fullstack</strong> e apaixonado por tecnologia. Atualm
 Mais sobre mim:
 
 <p align="left">
-  🧑🏽‍💻 Linguagem favorita: <strong>Javascript</strong>
+  🧑🏽‍💻  Linguagem favorita: <strong>Javascript</strong>
 </p>
 
 <p align="left">
-  🎯 Tecnologias que estudo no momento: <strong>React, React Native e Nodejs</strong>
+  🎯  Tecnologias que estudo no momento: <strong>React, React Native e Nodejs</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode</strong>
+  💼  Ferramentas: <strong>VSCode</strong>
 </p>
 
 
