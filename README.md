@@ -16,7 +16,7 @@ Mais sobre mim:
 </p>
 
 <p align="left">
-  💼  Ferramentas: <strong>VSCode</strong>
+  💼  Ferramentas: <strong>VSCode, DBeaver, Insomnia, etc</strong>
 </p>
 
 
